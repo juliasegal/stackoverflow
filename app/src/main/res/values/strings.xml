@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top Stackoverflow Users</string>
+
+    <string name="user_image">User Image</string>
+    <string name="user_follow">Follow</string>
+    <string name="user_unfollow">Unfollow</string>
+    <string name="user_block">Block</string>
+    <string name="user_unblock">Unblock</string>
+</resources>
